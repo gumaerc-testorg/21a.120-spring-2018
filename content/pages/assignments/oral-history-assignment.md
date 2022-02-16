@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f93cb84f-5f25-c20b-afb1-d781cf32d429
 title: Oral History Assignment
 uid: 9bd0daf3-839b-e196-2489-7aba57745ac6

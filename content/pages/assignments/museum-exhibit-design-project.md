@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f93cb84f-5f25-c20b-afb1-d781cf32d429
 title: 'Museum Exhibit Design Project '
 uid: 65432598-a80e-7f94-f2b1-a72f025717ac
