@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -95,4 +96,4 @@ Final paper
 
 {{< tableclose >}}
 
-For detailed information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the activities above, see the {{% resource_link f93cb84f-5f25-c20b-afb1-d781cf32d429 "Assignments" %}} section.

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information for the oral history assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

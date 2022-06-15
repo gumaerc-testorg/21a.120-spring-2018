@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information for the museum exhibit design project
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -45,4 +47,4 @@ Student Example
 
 Below is an example of a write up for the museum exhibit design project.
 
-["Memorializing the Memorial Day Massacre" (PDF)]({{< baseurl >}}/resources/mit21a_120s18_exhibit_writeup1) (This example appears courtesy of a Wellesley student and is anonymous by request.)
+{{% resource_link aa9b899c-879a-c793-bf87-9adfb4d5908c "\"Memorializing the Memorial Day Massacre\" (PDF)" %}} (This example appears courtesy of a Wellesley student and is anonymous by request.)
