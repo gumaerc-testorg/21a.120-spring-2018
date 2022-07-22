@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f93cb84f-5f25-c20b-afb1-d781cf32d429
 ---
@@ -16,7 +20,7 @@ Oral History Assignment 
 
 For this assignment, you will conduct a taped oral history / interview with another individual and submit a 2–3 page, double-spaced written account of that interview and a partial transcript.
 
-[More details about the oral history assignment]({{< baseurl >}}/pages/assignments/oral-history-assignment)
+{{% resource_link 9bd0daf3-839b-e196-2489-7aba57745ac6 "More details about the oral history assignment" %}}
 
 This assignment is due during Session 6.
 
@@ -25,7 +29,7 @@ Museum Exhibit Design Project 
 
 The goal of this exercise is to gain experience working with primary materials in a variety of media formats and to begin thinking about how one would design and put such material together in order to suggest both a “story” for possible viewers and an analysis or interpretation of the material. We’ll be working with materials from the all-volunteer Southeast Chicago Historical Museum.
 
-[More details about the museum exhibit design project assignment]({{< baseurl >}}/pages/assignments/museum-exhibit-design-project)
+{{% resource_link 65432598-a80e-7f94-f2b1-a72f025717ac "More details about the museum exhibit design project assignment" %}}
 
 This assignment is due during Session 10.
 

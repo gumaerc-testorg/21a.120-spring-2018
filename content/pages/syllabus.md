@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 40c8a7a1-3b01-3e52-7e1f-8fadcadcd553
 ---
@@ -93,4 +96,4 @@ Final paper
 
 {{< tableclose >}}
 
-For detailed information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the activities above, see the {{% resource_link f93cb84f-5f25-c20b-afb1-d781cf32d429 "Assignments" %}} section.
