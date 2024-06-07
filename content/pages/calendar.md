@@ -58,11 +58,11 @@ On Doing Oral History I
 
 _Guest Lecturer:_ 
 
-Peter Alter, Director of Studs Terkel Center for Oral History, {{% resource_link "c0aeb5cd-14a2-4898-8dde-06c83f16835f" "Chicago History Museum" %}}
+Peter Alter, Director of Studs Terkel Center for Oral History, [Chicago History Museum](https://www.chicagohistory.org/studsterkel/)
 
 _In-Class Activity:_
 
-Listen to oral histories on the {{% resource_link "93caeb32-1cf3-404a-8ea7-0d448bf498d1" "Studs Terkel Radio Archive" %}}
+Listen to oral histories on the [Studs Terkel Radio Archive](https://studsterkel.wfmt.com/)
 
 
 {{< tdclose >}}
@@ -102,7 +102,7 @@ On Ethnographic Methods
 
 _In-Class Ethnographic Activity:_
 
-Find a setting in the MIT's {{% resource_link "f008d9f1-d528-4b20-8dbe-d2a491495e4a" "Infinite Corridor" %}}, {{% resource_link "c3a518dd-ab5c-4b85-8080-9c53c2c8e8dc" "Student Center" %}}, or a dormitory cafeteria in which there is a lot of student activity; quietly observe social patterns for 15–20 mins; come back and report to your classmates. What analysis might you offer to account for such patterns? How does one acknowledge social patterns without stereotyping?
+Find a setting in the MIT's [Infinite Corridor](https://mitadmissions.org/help/faq/infinite-corridor/), [Student Center](https://studentlife.mit.edu/cac/stratton-student-center), or a dormitory cafeteria in which there is a lot of student activity; quietly observe social patterns for 15–20 mins; come back and report to your classmates. What analysis might you offer to account for such patterns? How does one acknowledge social patterns without stereotyping?
 
 
 {{< tdclose >}}
@@ -138,11 +138,11 @@ Chris Boebel, filmmaker
 
 _Viewing:_
 
-_{{% resource_link "21e23169-12c7-4daa-b8ea-d5002a3f9e05" "Exit Zero: An Industrial Family Story" %}}._ Directed by Chris Boebel. Color, 92 min. 2016.
+_[Exit Zero: An Industrial Family Story](http://societyforvisualanthropology.org/mediafestival/exit-zero-industrial-family-story/)._ Directed by Chris Boebel. Color, 92 min. 2016.
 
 _Trailer:_
 
-"{{% resource_link "03737604-780c-46f3-9465-1f04128b8032" "Exit Zero Trailer" %}}." April 12, 2015. YouTube.
+"[Exit Zero Trailer](https://www.youtube.com/watch?v=2RWNi-NVbMw&feature=youtu.be)." April 12, 2015. YouTube.
 
 
 {{< tdclose >}}
@@ -162,7 +162,7 @@ Telling Stories (and Offering Analysis) Across Media II
 
 _In-Class Activity:_
 
-Look through letters, scrapbooks, photos, home movies, and oral histories from the {{% resource_link "20cd64ce-d7f5-4c62-8345-aadb50ed3f64" "Southeast Chicago Historical Society" %}} archiving project focusing on different immigrant communities in this former steel mill town; choose particular items to analyze in depth and then report back to classmates.
+Look through letters, scrapbooks, photos, home movies, and oral histories from the [Southeast Chicago Historical Society](http://www.pullman-museum.org/ihaccr/sechs.html) archiving project focusing on different immigrant communities in this former steel mill town; choose particular items to analyze in depth and then report back to classmates.
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ Telling Stories Through and With Objects
 
 _In-Class Activity:_
 
-Break into small groups and continue exploring materials from the {{% resource_link "20cd64ce-d7f5-4c62-8345-aadb50ed3f64" "Southeast Chicago Historical Society" %}}; look at samples of online interactive documentary work. As a group, imagine you were to create a multimedia exhibit on a particular topic based on these materials. Draw up designs for an exhibit; what is most important for you to convey about a certain topic? How would you present it in a way that is compelling for a larger audience?
+Break into small groups and continue exploring materials from the [Southeast Chicago Historical Society](http://www.pullman-museum.org/ihaccr/sechs.html); look at samples of online interactive documentary work. As a group, imagine you were to create a multimedia exhibit on a particular topic based on these materials. Draw up designs for an exhibit; what is most important for you to convey about a certain topic? How would you present it in a way that is compelling for a larger audience?
 
 
 {{< tdclose >}}
@@ -196,7 +196,7 @@ Break into small groups and continue exploring materials from the {{% resource_l
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to {{% resource_link "f1cd5578-9ab1-4b59-a819-1e995ff5f109" "MIT Museum" %}}
+Field Trip to [MIT Museum](https://mitmuseum.mit.edu/)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -236,7 +236,7 @@ Stories of the Wealthy
 
 _Viewing:_
 
-_{{% resource_link "2ee80130-23c6-40b2-8ae4-bb87ed827209" "Born Rich" %}}._ Directed by Jamie Johnson. Color, 75 min. 2003.
+_[Born Rich](https://www.imdb.com/title/tt0342143/?ref_=fn_al_tt_1)._ Directed by Jamie Johnson. Color, 75 min. 2003.
 
 
 {{< tdclose >}}
@@ -276,7 +276,7 @@ Stories of Class from Outside the U.S. II
 
 _Viewing:_
 
-_{{% resource_link "e0902a9f-86e5-421f-ae49-ae21a2427747" "Stories We Tell" %}}._ Directed by Sarah Polley. Color, 108 min. 2012.
+_[Stories We Tell](https://www.imdb.com/title/tt2366450/?ref_=nv_sr_1)._ Directed by Sarah Polley. Color, 108 min. 2012.
 
 
 {{< tdclose >}}
