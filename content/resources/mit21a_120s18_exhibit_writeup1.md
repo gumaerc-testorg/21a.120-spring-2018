@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/aa9b899c879ac793bf879adfb4d5908c_MIT21A_120S18_Exhibit_WriteUp1.pdf
+file: /ol-ocw-studio-app/courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018/aa9b899c879ac793bf879adfb4d5908c_MIT21A_120S18_Exhibit_WriteUp1.pdf
 file_size: 176931
 file_type: application/pdf
 learning_resource_types:
