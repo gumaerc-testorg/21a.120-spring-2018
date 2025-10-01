@@ -15,15 +15,15 @@ Required Readings
 
 \[E\] = Eribon, Didier. _Returning to Reims_. Semiotext(e), 2013. ISBN: 9781584351238. 
 
-\[H\] = Hurston, Zora Neale. _Dust Tracks on a Road: An Autobiography_. Harper Perennial, 2006. ISBN: 9780060854089. \[Preview with [Google Books](https://books.google.com/books?id=T6ehj0epckQC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[H\] = Hurston, Zora Neale. _Dust Tracks on a Road: An Autobiography_. Harper Perennial, 2006. ISBN: 9780060854089. \[Preview with {{% resource_link "4f580c4a-1bf5-484a-a446-8a196dd72fac" "Google Books" %}}\]
 
-\[R\] = Rodriguez, Richard. _Hunger of Memory: The Education of Richard Rodriguez: An Autobiography_. Dial Press Trade Paperback, 2004. ISBN: 9780553382518. \[Preview with [Google Books](https://books.google.com/books?id=DuGoUZU-Zh4C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[R\] = Rodriguez, Richard. _Hunger of Memory: The Education of Richard Rodriguez: An Autobiography_. Dial Press Trade Paperback, 2004. ISBN: 9780553382518. \[Preview with {{% resource_link "505bb8b5-6e32-4796-8073-ce2aa3cad6ab" "Google Books" %}}\]
 
-\[RO\] = Rolph-Trouillat, Michel. _Silencing the Past: Power and the Production of History_. Beacon Press, 1997. ISBN: 9780807043110. \[Preview with [Google Books](https://books.google.com/books?id=qNkBDlueIxUC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[RO\] = Rolph-Trouillat, Michel. _Silencing the Past: Power and the Production of History_. Beacon Press, 1997. ISBN: 9780807043110. \[Preview with {{% resource_link "30cb7877-b185-4377-8413-f0a33f2ab9df" "Google Books" %}}\]
 
 \[T\] = Terkel, Studs. _Race: How Blacks and Whites Think and Feel About the American Obsession_. The New Press, 2012. ISBN: 9781595588104.
 
-\[W\] = Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](https://books.google.com/books?id=X10bCgO-MIMC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[W\] = Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "43e06302-f43b-43b0-94ca-76e8f47f7f62" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,7 +81,7 @@ Terkel, Studs. "Onward and Upward." Chapter 1 in _American Dreams: Lost and Fou
 
 ———. "In the Country." Chapter 3 in _American Dreams: Lost and Found_. The New Press, 2005. ISBN: 9781565845459.
 
-Portelli, Alessandro. “[The Peculiarities of Oral History](https://academic.oup.com/hwj/article-abstract/12/1/96/562764?redirectedFrom=fulltext).” _History Workshop Journal_ 12 (1981): 96–107. 
+Portelli, Alessandro. “{{% resource_link "062d473c-5925-4c54-86a4-bcd17bef78df" "The Peculiarities of Oral History" %}}.” _History Workshop Journal_ 12 (1981): 96–107. 
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ On Ethnographic Methods
 
 \[H\] Chapter 2: My Folks.
 
-\[H\] Chapter 3: I Get Born. GOOGLE \[Preview with [Google Books](https://books.google.com/books?id=T6ehj0epckQC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[H\] Chapter 3: I Get Born. GOOGLE \[Preview with {{% resource_link "4f580c4a-1bf5-484a-a446-8a196dd72fac" "Google Books" %}}\]
 
-\[H\] Chapter 4: The Inside Search. GOOGLE \[Preview with [Google Books](https://books.google.com/books?id=T6ehj0epckQC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[H\] Chapter 4: The Inside Search. GOOGLE \[Preview with {{% resource_link "4f580c4a-1bf5-484a-a446-8a196dd72fac" "Google Books" %}}\]
 
 \[H\] Chapter 8: Back Stage and the Railroad.
 
@@ -141,11 +141,11 @@ On Ethnographic Methods
 
 \[H\] Chapter 12: My People! My People!
 
-Gusterson, Hugh. "Ethnographic Research." Chapter 7 in _Qualitative Methods in International Relations: A Pluralist Guide_. Edited by Audie Klotz and Deepa Prakash, Palgrave Macmillan, 2008. ISBN: 9780230241756. \[Preview with [Google Books](https://books.google.com/books?id=TDkWDAAAQBAJ&pg=PA93=onepage#v=onepage&q&f=false)\]
+Gusterson, Hugh. "Ethnographic Research." Chapter 7 in _Qualitative Methods in International Relations: A Pluralist Guide_. Edited by Audie Klotz and Deepa Prakash, Palgrave Macmillan, 2008. ISBN: 9780230241756. \[Preview with {{% resource_link "a690f9ce-3824-4e1a-a070-648c3c0be407" "Google Books" %}}\]
 
 _Recommended background reading_
 
-Pierpont, Claudia Roth. "[A Society of One: Zora Neale Hurston, American Contrarian](https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/hurston-zora-neale-general-commentary)." _New Yorker_ 73 (1997): 80–91.
+Pierpont, Claudia Roth. "{{% resource_link "89bfd3a3-c614-46ae-9f9c-359232ebe65f" "A Society of One: Zora Neale Hurston, American Contrarian" %}}." _New Yorker_ 73 (1997): 80–91.
 
 
 {{< tdclose >}}
@@ -163,11 +163,11 @@ Storytelling and the Intersection of Identities
 
 _Read_
 
-Adichie, Chimamanda Ngozi. Chapters 1–17 in _Americanah_. Anchor, 2014. ISBN: 9780307455925. \[Preview with [Google Books](https://books.google.com/books?id=_wZ1Rf1QQ_EC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Adichie, Chimamanda Ngozi. Chapters 1–17 in _Americanah_. Anchor, 2014. ISBN: 9780307455925. \[Preview with {{% resource_link "54ef4757-3fc3-4cb7-8673-ed367d0c98ca" "Google Books" %}}\]
 
 _or_
 
-Yang, Kao Kalia. _The Latehomecomer: A Hmong Family Memoir_. Coffee House Press, 2017. ISBN: 9781566894784. \[Preview with [Google Books](https://books.google.com/books?id=jbthDgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Yang, Kao Kalia. _The Latehomecomer: A Hmong Family Memoir_. Coffee House Press, 2017. ISBN: 9781566894784. \[Preview with {{% resource_link "57682808-c18e-4e1f-9a91-b1d628827432" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -183,9 +183,9 @@ Telling Stories about Post-Industrialism, Working Across Media I
 {{< tdopen >}}
 
 
-\[W\] "Introduction." \[Preview with [Google Books](https://books.google.com/books?id=X10bCgO-MIMC&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[W\] "Introduction." \[Preview with {{% resource_link "30338815-8ce1-4e53-a8c1-73c6a4c78b1d" "Google Books" %}}\]
 
-\[W\] Chapter 1: A World of Iron and Steel: A Family Album. \[Preview with [Google Books](https://books.google.com/books?id=X10bCgO-MIMC&pg=PA18=onepage#v=onepage&q&f=false)\]
+\[W\] Chapter 1: A World of Iron and Steel: A Family Album. \[Preview with {{% resource_link "176153e8-15bf-49ee-97cc-985e407f5639" "Google Books" %}}\]
 
 \[W\] Chapter 2: It All Came Tumbling Down: My Father and the Demise of Chicago's Steel Industry. 
 
@@ -209,7 +209,7 @@ Telling Stories (and Offering Analysis) Across Media II
 
 \[W\] "Conclusion: From the Grave to the Cradle."
 
-Walley, Christine J. "Deindustrializing Chicago: A Daughter's Story." Chapter 6 in _The Insecure American: How We Got Here & What We Should Do About It_. Edited by Hugh Gusterson and Catherine Besteman. University of California Press, 2009. ISBN: 9780520259713. \[Preview with [Google Books](https://books.google.com/books?id=waaG4IfAK38C&pg=PAfrontcover#v=onepage&q&f=false)\]
+Walley, Christine J. "Deindustrializing Chicago: A Daughter's Story." Chapter 6 in _The Insecure American: How We Got Here & What We Should Do About It_. Edited by Hugh Gusterson and Catherine Besteman. University of California Press, 2009. ISBN: 9780520259713. \[Preview with {{% resource_link "ecfe6253-b8bd-4e65-a97b-6ba1107fdec5" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -227,13 +227,13 @@ Telling Stories Through and With Objects
 
 Sewell, Jr., William H. "Preface." In _Logics of History: Social Theory and Social Transformation_. University of Chicago Press, 2005. ISBN: 9780226749181. 
 
-———. "Theory, History, and Social Science." Chapter 1 in _Logics of History: Social Theory and Social Transformation_. University of Chicago Press, 2005. ISBN: 9780226749181. \[Preview with [Google Books](https://books.google.com/books?id=EY0yuWBBkWYC&pg=PA1=onepage#v=onepage&q&f=false)\]
+———. "Theory, History, and Social Science." Chapter 1 in _Logics of History: Social Theory and Social Transformation_. University of Chicago Press, 2005. ISBN: 9780226749181. \[Preview with {{% resource_link "2b4411b1-317d-4c0d-bc74-361a5f6cf72f" "Google Books" %}}\]
 
 \[RO\] "Preface." 
 
-\[RO\] Chapter 1: The Power in the Story \[Preview with [Google Books](https://books.google.com/books?id=qNkBDlueIxUC&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[RO\] Chapter 1: The Power in the Story \[Preview with {{% resource_link "4926a353-a066-4a5b-8014-7da5950a7458" "Google Books" %}}\]
 
-\[RO\] Chapter 2: The Three Faces of Sans Souci: Glory and Silences in the Haitian Revolution. \[Preview with [Google Books](https://books.google.com/books?id=qNkBDlueIxUC&pg=PA31=onepage#v=onepage&q&f=false)\]
+\[RO\] Chapter 2: The Three Faces of Sans Souci: Glory and Silences in the Haitian Revolution. \[Preview with {{% resource_link "77543851-da08-4650-8b82-68a16dacc6f1" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -244,7 +244,7 @@ Sewell, Jr., William H. "Preface." In _Logics of History: Social Theory and Soci
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to [MIT Museum](https://mitmuseum.mit.edu/)
+Field Trip to {{% resource_link "6f8e9d41-2601-4cf1-9c5b-a5a0ff01ad7b" "MIT Museum" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 No readings assigned
@@ -307,9 +307,9 @@ Stories of Class from Outside the U.S. I
 
 \[E\] Read the first half.
 
-"[On Slavery: The Oral History of Abdallah Mohammed Kimbau, October 1995](http://www.choletrust.org/Pages/OnSlavery.html)." The Chole Mjini Trust Fund.
+"{{% resource_link "c55e7fb9-744f-4c26-b0a0-beb2e4b6718c" "On Slavery: The Oral History of Abdallah Mohammed Kimbau, October 1995" %}}." The Chole Mjini Trust Fund.
 
-"[The Story of Kibaraka the Waterseller by Bi Hamisa Farahani, June 1995](http://www.choletrust.org/Pages/Kibaraka.html)." The Chole Mjini Trust Fund.
+"{{% resource_link "a923a8db-d242-4bb1-a44b-6bd1ac0356ae" "The Story of Kibaraka the Waterseller by Bi Hamisa Farahani, June 1995" %}}." The Chole Mjini Trust Fund.
 
 Steedman, Carolyn Kay. "Acknowledgements." In _Landscape for a Good Woman: A Story of Two Lives_. Rutgers University Press, 1987. ISBN: 9780813512587. 
 
@@ -317,7 +317,7 @@ Steedman, Carolyn Kay. "Acknowledgements." In _Landscape for a Good Woman: A St
 
 ———. "Stories." In _Landscape for a Good Woman: A Story of Two Lives_. Rutgers University Press, 1987. ISBN: 9780813512587. 
 
-———. "The Weaver's Daughter." In _Landscape for a Good Woman: A Story of Two Lives_. Rutgers University Press, 1987. ISBN: 9780813512587. \[Preview with [Google Books](https://books.google.com/books?id=hzMgk1qNZp0C&pg=PA27=onepage#v=onepage&q&f=false)\]
+———. "The Weaver's Daughter." In _Landscape for a Good Woman: A Story of Two Lives_. Rutgers University Press, 1987. ISBN: 9780813512587. \[Preview with {{% resource_link "930a9324-2655-46f1-b031-bce7c878a650" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -353,17 +353,17 @@ No readings assigned
 Supplemental Readings
 ---------------------
 
-Frank, Robert. "Introduction: The Birth of a Nation." In _Richistan: A Journey Through the American Wealth Boom and the Lives of the New Rich_. Crown Business, 2008. ISBN: 9780307341457. \[Preview with [Google Books](https://books.google.com/books?id=slDLwk_lJWQC&pg=PA1=onepage#v=onepage&q&f=false)\]
+Frank, Robert. "Introduction: The Birth of a Nation." In _Richistan: A Journey Through the American Wealth Boom and the Lives of the New Rich_. Crown Business, 2008. ISBN: 9780307341457. \[Preview with {{% resource_link "96249cb4-b92c-48ed-b9fb-cbf38b6f09c8" "Google Books" %}}\]
 
 Reed-Danahay, Deborah. "Appendix I: Remembering Pierre Bourdieu, 1930–2002." In _Locating Bourdieu_. Indiana University Press, 2005. ISBN: 9780253217325. 
 
 Bourdieu, Pierre. "The Aristocracy of Culture." Chapter 1 in _Distinction: A Social Critique of the Judgement of Taste_. Translated by Richard Nice. Harvard University Press, 1984. ISBN: 9780674212770. 
 
-Alger, Jr., Horatio. _Ragged Dick and Struggling Upward_. Penguin Classics, 1985, pp. v–xxi, and 1–132. ISBN: 9780140390339. \[Preview with [Google Books](https://books.google.com/books?id=SM2qAZ7auuQC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Alger, Jr., Horatio. _Ragged Dick and Struggling Upward_. Penguin Classics, 1985, pp. v–xxi, and 1–132. ISBN: 9780140390339. \[Preview with {{% resource_link "ffc2815c-c891-4280-ba1a-257ff170fbb8" "Google Books" %}}\]
 
 Cheever, John. "The Housebreaker of Shady Hill," and "The Worm in the Apple." In _The Stories of John Cheever_. Vintage, 2000. ISBN: 9780375724428. 
 
-Khan, Shamus Rahman. "Introduction: Democratic Inequality," and Chapter 3 in _Privilege: The Making of an Adolescent Elite at St. Paul's School_. Princeton University Press, 2012. ISBN: 9780691156231. \[Preview with [Google Books](https://books.google.com/books?id=FGDCMs6kF-MC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Khan, Shamus Rahman. "Introduction: Democratic Inequality," and Chapter 3 in _Privilege: The Making of an Adolescent Elite at St. Paul's School_. Princeton University Press, 2012. ISBN: 9780691156231. \[Preview with {{% resource_link "cdc7452a-cf6c-4133-893e-b129fcf305c4" "Google Books" %}}\]
 
 Mills, C. Wright. Chapters 4, and 10–12 in _White Collar: The American Middle Classes: Fiftieth Anniversary Edition_. Oxford University Press, 2002. ISBN: 9780195157086. 
 
