@@ -25,11 +25,11 @@ The mythic idea of the “American Dream” – or the ability for all individua
 Required Readings
 -----------------
 
-Hurston, Zora Neale. _Dust Tracks on a Road: An Autobiography_. Harper Perennial, 2006. ISBN: 9780060854089. \[Preview with {{% resource_link "55f61b4b-61b7-4cdb-9d4d-9d2393718c00" "Google Books" %}}\]
+Hurston, Zora Neale. _Dust Tracks on a Road: An Autobiography_. Harper Perennial, 2006. ISBN: 9780060854089. \[Preview with [Google Books](https://books.google.com/books?id=pwEHpHvv7N8C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Rodriguez, Richard. _Hunger of Memory: The Education of Richard Rodriguez: An Autobiography_. Dial Press Trade Paperback, 2004. ISBN: 9780553382518. \[Preview with {{% resource_link "505bb8b5-6e32-4796-8073-ce2aa3cad6ab" "Google Books" %}}\]
+Rodriguez, Richard. _Hunger of Memory: The Education of Richard Rodriguez: An Autobiography_. Dial Press Trade Paperback, 2004. ISBN: 9780553382518. \[Preview with [Google Books](https://books.google.com/books?id=DuGoUZU-Zh4C&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "43e06302-f43b-43b0-94ca-76e8f47f7f62" "Google Books" %}}\]
+Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](https://books.google.com/books?id=X10bCgO-MIMC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 Aldrich, Jr., Nelson W. _Old Money: The Mythology of Wealth in America_. Allworth Press, 1997. ISBN: 9781880559642. 
 

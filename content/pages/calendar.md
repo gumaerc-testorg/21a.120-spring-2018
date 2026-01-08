@@ -31,11 +31,11 @@ On Doing Oral History I
 
 *Guest Lecturer:* 
 
-Peter Alter, Director of {{% resource_link "1e491236-acd5-462c-8aaf-e2fff10c830a" "Studs Terkel Center for Oral History, Chicago History Museum" %}}
+Peter Alter, Director of [Studs Terkel Center for Oral History, Chicago History Museum](https://www.chicagohistory.org/studs-terkel-oral-history-center/)
 
 *In-Class Activity:*
 
-Listen to oral histories on the {{% resource_link "b1f73fe2-79d4-40d3-a817-dd58e445d474" "Studs Terkel Radio Archive" %}}
+Listen to oral histories on the [Studs Terkel Radio Archive](https://studsterkel.wfmt.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -59,7 +59,7 @@ On Ethnographic Methods
 
 *In-Class Ethnographic Activity:*
 
-Find a setting in the MIT's {{% resource_link "2d94527f-0464-42e3-9571-19b7b5102e82" "Infinite Corridor" %}}, {{% resource_link "290b6cf4-588a-42b1-a7dd-0efdfe5e1a58" "Student Center" %}}, or a dormitory cafeteria in which there is a lot of student activity; quietly observe social patterns for 15–20 mins; come back and report to your classmates. What analysis might you offer to account for such patterns? How does one acknowledge social patterns without stereotyping?
+Find a setting in the MIT's [Infinite Corridor](https://mitadmissions.org/help/faq/infinite-corridor/), [Student Center](https://studentlife.mit.edu/cac/stratton-student-center), or a dormitory cafeteria in which there is a lot of student activity; quietly observe social patterns for 15–20 mins; come back and report to your classmates. What analysis might you offer to account for such patterns? How does one acknowledge social patterns without stereotyping?
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -81,11 +81,11 @@ Chris Boebel, filmmaker
 
 *Viewing:*
 
-{{% resource_link "2d656b84-83ec-48e4-9b79-65107b4d841b" "*Exit Zero: An Industrial Family Story*" %}}*.* Directed by Chris Boebel. Color, 92 min. 2016.
+[*Exit Zero: An Industrial Family Story*](http://societyforvisualanthropology.org/mediafestival/exit-zero-industrial-family-story/)*.* Directed by Chris Boebel. Color, 92 min. 2016.
 
 *Trailer:*
 
-"{{% resource_link "d4de64d1-8e8d-4627-bc05-23d3d1674460" "Exit Zero Trailer" %}}." April 12, 2015. YouTube.
+"[Exit Zero Trailer](https://www.youtube.com/watch?v=2RWNi-NVbMw&feature=youtu.be)." April 12, 2015. YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
 Oral history assignment due 
@@ -97,7 +97,7 @@ Telling Stories (and Offering Analysis) Across Media II
 
 *In-Class Activity:*
 
-Look through letters, scrapbooks, photos, home movies, and oral histories from the {{% resource_link "8970f568-1df4-4425-a404-5b0e610dd432" "Southeast Chicago Historical Society" %}} archiving project focusing on different immigrant communities in this former steel mill town; choose particular items to analyze in depth and then report back to classmates.
+Look through letters, scrapbooks, photos, home movies, and oral histories from the [Southeast Chicago Historical Society](http://www.pullman-museum.org/ihaccr/sechs.html) archiving project focusing on different immigrant communities in this former steel mill town; choose particular items to analyze in depth and then report back to classmates.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -109,14 +109,14 @@ Telling Stories Through and With Objects
 
 *In-Class Activity:*
 
-Break into small groups and continue exploring materials from the {{% resource_link "8970f568-1df4-4425-a404-5b0e610dd432" "Southeast Chicago Historical Society" %}}; look at samples of online interactive documentary work. As a group, imagine you were to create a multimedia exhibit on a particular topic based on these materials. Draw up designs for an exhibit; what is most important for you to convey about a certain topic? How would you present it in a way that is compelling for a larger audience?
+Break into small groups and continue exploring materials from the [Southeast Chicago Historical Society](http://www.pullman-museum.org/ihaccr/sechs.html); look at samples of online interactive documentary work. As a group, imagine you were to create a multimedia exhibit on a particular topic based on these materials. Draw up designs for an exhibit; what is most important for you to convey about a certain topic? How would you present it in a way that is compelling for a larger audience?
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Field Trip to {{% resource_link "6f8e9d41-2601-4cf1-9c5b-a5a0ff01ad7b" "MIT Museum" %}}
+Field Trip to [MIT Museum](https://mitmuseum.mit.edu/)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -135,7 +135,7 @@ Stories of the Wealthy
 
 *Viewing:*
 
-{{% resource_link "ef10619e-4f91-47f6-b341-823b8424e8f4" "*Born Rich*" %}}*.* Directed by Jamie Johnson. Color, 75 min. 2003.
+[*Born Rich*](https://www.imdb.com/title/tt0342143/?ref_=fn_al_tt_1)*.* Directed by Jamie Johnson. Color, 75 min. 2003.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -159,7 +159,7 @@ Stories of Class from Outside the U.S. II
 
 *Viewing:*
 
-{{% resource_link "51552764-fb67-4203-bceb-5848266b72b5" "*Stories We Tell*" %}}*.* Directed by Sarah Polley. Color, 108 min. 2012.
+[*Stories We Tell*](https://www.imdb.com/title/tt2366450/?ref_=nv_sr_1)*.* Directed by Sarah Polley. Color, 108 min. 2012.
 
 {{< tdclose >}}{{< tdopen >}}
  
